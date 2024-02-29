@@ -45,5 +45,7 @@ button {
 }
 
 #my-img{
-  margin: auto;
+  max-width: 500px;
+  max-height: 400px;
+  margin: 30px auto 0px;
 }
