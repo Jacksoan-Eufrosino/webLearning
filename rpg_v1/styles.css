@@ -43,9 +43,12 @@ button {
   background-image: linear-gradient(#fecc4c, #ffac33);
   border: 3px solid #feac32;
 }
-
+#my{
+  margin-left: 31%;
+  margin-right: 69%;
+}
 #my-img{
   max-width: 500px;
   max-height: 400px;
-  margin: 30px auto 0px;
 }
+
